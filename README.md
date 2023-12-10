@@ -24,6 +24,7 @@ World Explorer é o seu parceiro de viagem ideal. Planeje itinerários, descubra
 
 # Personas e Cenários
 ![image](https://github.com/VitorCavalli/World-Explorer/assets/113732008/ed910e0f-0e79-413a-a823-7501e16b409c)
+
 -Cadastro Inicial e Login:
 
 A arquiteta, ao baixar o aplicativo World Explorer, decide se cadastrar para aproveitar todos os recursos.
@@ -34,6 +35,7 @@ Após o cadastro, a arquiteta está pronta para desfrutar do nosso app World Exp
 
 
 ![image](https://github.com/VitorCavalli/World-Explorer/assets/113732008/86007f8e-3b6e-4ed0-966d-c9ae75af2311)
+
 -Recuperar a senha:
 
 Carla, a profissional de marketing digital, já é uma usuária registrada do World Explorer, mas por algum motivo, esqueceu sua senha.
@@ -44,6 +46,7 @@ Após redefinir sua senha a Carla consegue acessar o app normalmente.
 
 
 ![image](https://github.com/VitorCavalli/World-Explorer/assets/113732008/c7ac29ae-317c-4c26-b6bb-78a2d5480352)
+
 -Editar dados da conta:
 
 Beatriz, a apaixonada por viagens, percebe que precisa atualizar algumas informações em sua conta no World Explorer.
@@ -54,6 +57,7 @@ Agora ela pode ficar mais tranquila pois tem suas informações mais recentes at
 
 
 ![image](https://github.com/VitorCavalli/World-Explorer/assets/113732008/c6788a57-e238-49f7-906f-a3b3cdf65812)
+
 -Comprar passagens e Pagamentos:
 
 Gabriel abre o aplicativo "World Explorer" e acessa a seção de planejamento de viagem.
@@ -65,6 +69,7 @@ Abre uma tela com um QR CODE DE de sua passagem e um botão para voltar ao iníc
 
 
 ![image](https://github.com/VitorCavalli/World-Explorer/assets/113732008/89e2bb24-3b2a-40e3-8297-0f0aedb7693d)
+
 -Reservar Hoteis e Pagamentos:
 
 Maria com seu sonho de conhecer Natal desde criança decide entrar no World Explorer para reservar um hotel em Natal.
