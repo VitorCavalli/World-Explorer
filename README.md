@@ -1,5 +1,4 @@
-# Título do Projeto
-
+# World Explorer
 
 ![Capa do Projeto](https://i.imgur.com/IeMt0Zd.jpg)
 
@@ -54,7 +53,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-- Vitor Cavalli de Oliveira
+- Vitor Cavalli de Oliveira - RA: 12922115000
 -
 -
 -
@@ -68,4 +67,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Agradecemos sinceramente ao talentoso grupo pelo trabalho excepcional neste projeto. A dedicação, colaboração e espírito de equipe foram fundamentais para alcançarmos o sucesso. Cada membro contribuiu de maneira valiosa, superando desafios e demonstrando excelência. Obrigado por tornarem este projeto possível com seu comprometimento notável. ❤
+Agradecemos sinceramente ao talentoso grupo pelo trabalho excepcional neste projeto. A dedicação, colaboração e espírito de equipe foram fundamentais para alcançarmos o sucesso. Cada membro contribuiu de maneira valiosa, superando desafios e demonstrando excelência. Obrigado por tornarem este projeto possível com seu comprometimento notável.
